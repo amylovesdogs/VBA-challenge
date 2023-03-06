@@ -6,10 +6,10 @@
 The stock_report VBA script:
 
 Expects:
-  * Excel data worksheets depicting daily stock status  for one year with the following columns: A: <ticker> ticker name string, B: 	<date> date of status, C:	<open>	opebubg price, D: <high> high price, E:	<low> low price, F:	<close> closing price, and G:	<vol> stock sales volume for the day
+  * Excel data worksheets depicting daily stock status  for one year with the following columns: A: "ticker" ticker name string, B: "date" date of status, C:	"open"	opening price, D: "high" high price, E:	"low" low price, F: "close" closing price, and G: "vol" stock sales volume for the day
 
 Outputs:
-On each yearly sheet outputs the following information:
+On each yearly sheet, outputs the following information:
 
   * The ticker symbol.
 
